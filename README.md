@@ -25,8 +25,8 @@ nodemon index.js
 
 Ensure that you have a PostgreSQL database named world with the required tables (countries and visited_countries). You can use pgAdmin to manage your database.
 
-i) The table countries should have this data: [countries.csv](https://github.com/AthanasiosOikonomou/TravelTracker/files/13854991/countries.csv)
-ii) The table visited_countries should be empty with columns id, country_code.
+1) The table countries should have this data: [countries.csv](https://github.com/AthanasiosOikonomou/TravelTracker/files/13854991/countries.csv)
+2) The table visited_countries should be empty with columns id, country_code.
 
 ## Functionalility
 
