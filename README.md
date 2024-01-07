@@ -25,8 +25,8 @@ nodemon index.js
 
 Ensure that you have a PostgreSQL database named world with the required tables (countries and visited_countries). You can use pgAdmin to manage your database.
 
-The table countries should have this data: [countries.csv](https://github.com/AthanasiosOikonomou/TravelTracker/files/13854991/countries.csv)
-The table visited_countries should be empty with columns id, country_code.
+i) The table countries should have this data: [countries.csv](https://github.com/AthanasiosOikonomou/TravelTracker/files/13854991/countries.csv)
+ii) The table visited_countries should be empty with columns id, country_code.
 
 ## Functionalility
 
@@ -38,8 +38,8 @@ The table visited_countries should be empty with columns id, country_code.
 
 The application connects to a PostgreSQL database using the following credentials:
 
-Host: localhost
-Port: 5432
-User: postgres
-Password: (Your Password)
-Database: world
+i) Host: localhost
+ii) Port: 5432
+iii) User: postgres
+iv) Password: (Your Password)
+v) Database: world
