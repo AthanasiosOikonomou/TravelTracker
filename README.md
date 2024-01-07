@@ -38,8 +38,8 @@ ii) The table visited_countries should be empty with columns id, country_code.
 
 The application connects to a PostgreSQL database using the following credentials:
 
-i) Host: localhost
-ii) Port: 5432
-iii) User: postgres
-iv) Password: (Your Password)
-v) Database: world
+1) Host: localhost
+2) Port: 5432
+3) User: postgres
+4) Password: (Your Password)
+5) Database: world
