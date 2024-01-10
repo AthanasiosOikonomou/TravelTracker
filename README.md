@@ -43,3 +43,9 @@ The application connects to a PostgreSQL database using the following credential
 3) User: postgres
 4) Password: (Your Password)
 5) Database: world
+
+## Update to version 1.01
+
+1) Run these queries: [queries.txt](https://github.com/AthanasiosOikonomou/TravelTracker/files/13894090/queries.txt)
+2) index.js and index.ejs got updated.
+3) Added 1 more file: new.ejs
