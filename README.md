@@ -3,6 +3,10 @@
 ## Overview
 This project allows users to interact with a world map using a web application. The application is built with Express, EJS, and interacts with a PostgreSQL database using the pg library. Users can input a country in a text box, and if the country exists and is spelled correctly, the color of the corresponding area on the world map changes. The application also provides error messages for incorrect spellings, non-existent countries, and attempts to add a country already visited.
 
+## Sample Video
+
+https://github.com/AthanasiosOikonomou/TravelTracker/assets/87909481/0e6c9286-1476-4947-8fcd-8648f1fe45ec
+
 ## Prerequisites
 
 1) Node.js: Download and Install Node.js (https://nodejs.org/)
