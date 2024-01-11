@@ -53,3 +53,7 @@ The application connects to a PostgreSQL database using the following credential
 1) Run these queries: [queries.txt](https://github.com/AthanasiosOikonomou/TravelTracker/files/13894090/queries.txt)
 2) index.js and index.ejs got updated.
 3) Added 1 more file: new.ejs
+
+## Thanks
+
+I would like to thank Dr. Angela Yu and her course 'The Complete 2023 Web Development Bootcamp' for this project.
